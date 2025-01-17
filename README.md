@@ -2,6 +2,8 @@
 
 A simple and powerful GUI tool to push your codebase to GitHub repositories with ease.
 
+![Screenshot 2025-01-17 025318](https://github.com/user-attachments/assets/4659849f-9ff9-41f6-aebc-91e5b193dadf)
+
 ![GitHub Pusher Screenshot](screenshots/app.png)
 
 ## 🌟 Features
@@ -16,32 +18,12 @@ A simple and powerful GUI tool to push your codebase to GitHub repositories with
 
 ## 🚀 Quick Start
 
-1. **Prerequisites**
-   ```bash
-   # Python 3.6 or higher required
-   python --version
-   
-   # Git must be installed
-   git --version
-   ```
 
-2. **Installation**
-   ```bash
-   # Clone the repository
-   git clone https://github.com/yourusername/github-pusher.git
-   cd github-pusher
-   
-   # Install requirements
-   pip install -r requirements.txt
-   
-   # Run the application
-   python github_pusher.py
-   ```
 
 ## 💻 How to Use
 
 1. **Launch the Application**
-   - Run `github_pusher.py`
+   - Run `github_pusher.exe`
    - A GUI window will appear
 
 2. **Select Your Codebase**
@@ -143,4 +125,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - Inspired by the need for simple GitHub deployment
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by [MKhanfar]
