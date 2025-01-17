@@ -1,6 +1,7 @@
 # GitHub Pusher 🚀
 
 A simple and powerful GUI tool to push your codebase to GitHub repositories with ease.
+
 ![Screenshot 2025-01-17 025318](https://github.com/user-attachments/assets/5a9b577d-0628-4db7-9187-6c1260571188)
 
 
